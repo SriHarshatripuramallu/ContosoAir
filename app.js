@@ -29,6 +29,7 @@ app.engine('hbs', exphbs({
 }));
 
 //testing
+//another change made 
 app.set('view engine', 'hbs');
 
 app.use(favicon(__dirname + '/public/assets/favicon.ico'));

@@ -1,3 +1,4 @@
+//this file name is front 
 var $ = require('jquery');
 require('bootstrap-datepicker');
 require('bootstrap-datepicker/dist/css/bootstrap-datepicker3.standalone.css');
